@@ -1,6 +1,10 @@
-# CrypTop12: CryptoCurrency Dataset
+# CrypTop12: A Dataset For Cryptocurrency Price Movement Prediction From Tweets And Historical Prices
 
-A Dataset For Cryptocurrency Price Movement Prediction From Tweets And Historical Prices.
+This is the official repository for the release of the CrypTop12 dataset. If you would like to use our research, please cite the following:
+
+A. Garg, T. Shah, V. K. Jain and R. Sharma, "[CrypTop12: A Dataset For Cryptocurrency Price Movement Prediction From Tweets And Historical Prices](https://ieeexplore.ieee.org/document/9680044)," 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA), 2021, pp. 379-384, doi: 10.1109/ICMLA52953.2021.00065.
+
+Feel free to reach us out at [tanavshah@gmail.com](mailto:tanavshah@gmail.com) if you have any queries and suggestions for us!
 
 ## Overview
 
@@ -12,7 +16,7 @@ The dataset consists of two components: the historical prices and the tweets.
 | 12 | 21/09/2017 to 27/03/2021 | 1255 | 38.28 |
 
 
-## Componenets
+## Components
 
 There are two main components:
 
@@ -78,7 +82,7 @@ The raw and preprocessed data for tweets is organized as follows:
 
 ## Authors
 
-* Amish Garg (@am15h)
-* Tanav Shah (@TanavShah)
-* Vinay Kumar Jain (@shacvin)
+* [Amish Garg](https://github.com/am15h)
+* [Tanav Shah](https://github.com/TanavShah)
+* [Vinay Kumar Jain](https://github.com/shacvin)
 * Prof. Raksha Sharma
